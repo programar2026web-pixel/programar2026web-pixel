@@ -60,3 +60,15 @@ Aquí presento mis trabajos más recientes, enfocados en diseño interactivo, re
 *   **Arquitectura Frontend:** Desarrollo de interfaces reactivas con código limpio y escalable.
 *   **Diseño (UI/UX):** Implementación de sistemas de diseño minimalistas y centrados absolutamente en el usuario.
 *   **Performance:** Optimización de tiempos de carga, transiciones fluidas y estructuras semánticas.**
+
+*   <br>
+
+## 📬 Contacto & Colaboración
+
+¿Buscas un desarrollador frontend enfocado en los detalles o tienes un proyecto en mente? Hablemos.
+
+<div align="left">
+  <a href="mailto:programar2026web@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_programar2026web@gmail.com-111111?style=for-the-badge" alt="Email de Contacto"/>
+  </a>
+</div>
