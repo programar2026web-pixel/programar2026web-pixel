@@ -17,8 +17,8 @@ Aquí presento mis trabajos más recientes, enfocados en diseño interactivo, re
       <p><b>Sector:</b> Real Estate de Lujo</p>
       <p>Plataforma inmobiliaria diseñada para agencias de alto nivel. Resuelve la brecha entre la información técnica y la conexión emocional del cliente, ofreciendo una navegación inmersiva, filtros precisos y una interfaz estética premium.</p>
       <p><i>Stack: React, Tailwind CSS, Framer Motion</i></p>
-      <a href="https://github.com/programar2026web-pixel/aura-estate">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-111111?style=for-the-badge" alt="Repositorio"/>
+      <a href="https://aura-state.netlify.app/">
+        <img src="https://img.shields.io/badge/Ver demo en vivo-111111?style=for-the-badge" alt="Repositorio"/>
       </a>
     </td>
     <td width="50%" valign="top">
