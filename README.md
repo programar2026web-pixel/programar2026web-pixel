@@ -1,37 +1,54 @@
 <h1 align="center">Hola, soy Anurdweb! 👋</h1>
 
 <p align="center">
-  <em>Desarrollador Web apasionado por crear experiencias digitales premium y soluciones de alto rendimiento.</em>
+  <em>Desarrollador Web | Enfocado en experiencias digitales premium y alto rendimiento.</em>
 </p>
 
----
+<br>
 
-### 🛠 Tech Stack
+<h2 align="center">🚀 Proyectos Destacados</h2>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  
+  <!-- Aura Estate -->
+  <a href="https://github.com/programar2026web-pixel/aura-estate">
+    <img src="https://img.shields.io/badge/Aura_Estate-Real_Estate_Luxe-blue?style=for-the-badge&logo=homeassistant&logoColor=white">
+  </a>
+  <br>
+  <p>Portal inmobiliario de lujo con transiciones fluidas y estética minimalista.</p>
+  
+  <br>
+
+  <!-- Burger & Co -->
+  <a href="https://burguer-co.netlify.app/">
+    <img src="https://img.shields.io/badge/Burger_&_Co-Gastronomía_Digital-orange?style=for-the-badge&logo=burgerking&logoColor=white">
+  </a>
+  <br>
+  <p>Interfaz gastronómica dinámica con menús interactivos.</p>
+
+  <br>
+
+  <!-- SoulMotion -->
+  <a href="https://soulmotion.vercel.app/">
+    <img src="https://img.shields.io/badge/SoulMotion-Animaciones_Creativas-purple?style=for-the-badge&logo=framer&logoColor=white">
+  </a>
+  <br>
+  <p>Proyecto creativo que integra animaciones avanzadas.</p>
+
+  <br>
+
+  <!-- Portafolio -->
+  <a href="https://anurdweb.netlify.app/">
+    <img src="https://img.shields.io/badge/Anurdweb_Portfolio-Mi_Espacio_Digital-black?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  <br>
+  <p>Mi centro de operaciones profesional.</p>
+
 </div>
 
----
+<br>
 
-### 🚀 Proyectos Destacados
-*   **[Aura Estate](https://aura-state.netlify.app/):** Portal inmobiliario de lujo diseñado con un enfoque en UX, transiciones fluidas y estética minimalista.
-*   **[Anurdweb Portfolio](https://anurdweb.netlify.app/):** Mi espacio digital profesional donde muestro mi evolución técnica y proyectos principales.
-*   **[Burger & Co](https://burguer-co.netlify.app/):** Interfaz gastronómica dinámica, enfocada en menús interactivos y experiencia de usuario optimizada.
-*   **[SoulMotion]([https://github.com/programar2026web-pixel/soulmotion](https://soulmotion.vercel.app/)):** Proyecto creativo que integra animaciones avanzadas y una estructura web moderna orientada a la experiencia visual.
----
-
-### 📈 Estadísticas
+<h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programar2026web-pixel&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,git,github,vercel,netlify" />
 </div>
-
----
-
-### 📩 Conectemos
-*   **Email:** programar2026web@gmail.com
-*   **Portafolio:** [https://anurdweb.netlify.app/]
-
-<p align="center">"El código es el lenguaje, la disciplina es el camino."</p>
